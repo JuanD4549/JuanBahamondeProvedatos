@@ -23,6 +23,9 @@
     ```bash
 
     php artisan make:seeder PersonaSeeder
+    ```
+    ```bash
+    
     php artisan make:seeder EmpleadoSeeder
     ```
     2. O crear la base de datos con el archivo provedatosJuanBahamonde.sql
@@ -31,16 +34,23 @@
     ```bash
 
     php artisan serve
-    npm 
+    ```
+    ```bash
+
+    npm run dev
     ```
 
 
 ## Galeria
+
 ![Pantalla principal](./galery/Home1.png)
 ![Pantalla principal filtrada](./galery/Home2.png)
+
 ![Pantalla reporte ](./galery/Reporte1.png.png)
 ![Pantalla reporte filtrado](./galery/Reporte2.png.png)
+
 ![Pantalla creacion datos personales](./galery/Creacion1.png)
 ![Pantalla creacion datos laborales](./galery/Creacion2.png)
+
 ![Pantalla actualizacion datos personales](./galery/Creacion1.png)
 ![Pantalla actualizacion datos laborales](./galery/Creacion2.png)
