@@ -47,8 +47,8 @@ Pantalla principal
 ![Pantalla principal filtrada](./galery/Home2.png)
 
 Pantalla de reporte
-![Pantalla reporte ](./galery/Reporte1.png.png)
-![Pantalla reporte filtrado](./galery/Reporte2.png.png)
+![Pantalla reporte ](./galery/Reporte1.png)
+![Pantalla reporte filtrado](./galery/Reporte2.png)
 
 Pantalla de creación
 ![Pantalla creacion datos personales](./galery/Creacion1.png)
