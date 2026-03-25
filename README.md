@@ -55,5 +55,5 @@ Pantalla de creación
 ![Pantalla creacion datos laborales](./galery/Creacion2.png)
 
 Pantalla de actualización
-![Pantalla actualizacion datos personales](./galery/Creacion1.png)
-![Pantalla actualizacion datos laborales](./galery/Creacion2.png)
+![Pantalla actualizacion datos personales](./galery/Actualizar1.png)
+![Pantalla actualizacion datos laborales](./galery/Actualizar2.png)
